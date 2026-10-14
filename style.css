@@ -97,11 +97,12 @@ nav ul li a {
     color: var(--warna-teks-lembut);
     font-size: 15px;
     font-weight: 600;
-    transition: color 0.3s;
+    transition: color 0.3s, background-color 0.3s;
 }
 
 nav ul li a:hover {
-    color: var(--warna-aksen-terang);
+    color: #ffffff;
+    background-color: var(--warna-tombol);
 }
 
 /* 6. Mengatur hero section */
