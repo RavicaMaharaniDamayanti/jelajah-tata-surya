@@ -1,7 +1,7 @@
 /* 0. Warna & font yang dipakai di seluruh website */
 :root {
-    --font-judul: "Outfit", Arial, sans-serif;
-    --font-teks: "Nunito", Arial, sans-serif;
+    --font-judul: "Playfair Display", Georgia, serif;
+    --font-teks: Georgia, "Times New Roman", serif;
 
     --warna-teks: #f5f6ff;
     --warna-teks-lembut: #e9ebfb;
